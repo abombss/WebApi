@@ -16,3 +16,4 @@ _[Ss]cripts
 *.psess
 *.orig
 *.sln.ide
+*.sln.[Gg]host[Dd]oc.xml
